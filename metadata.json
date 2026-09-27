@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Ledger — Income, IRS Tax & Dream Goal Calculator",
+  "description": "Interactive financial planning studio converting hourly wages and weekly hours into IRS-accurate net income, Dream Board savings timelines, automated budget optimization, compound interest simulations, and tax literacy modules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
